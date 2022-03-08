@@ -1,4 +1,4 @@
-![Enarx](https://www.wallpaperflare.com/static/532/233/133/dragon-castle-fantasy-art-artwork-wallpaper-preview.jpg)
+![Enarx](https://thumbs.dreamstime.com/b/enchanting-old-fairytale-castle-top-hill-idyllic-landscape-d-render-177332674.jpg)
 
 # Getting started with Enarx 
 To get started in learning a new technology or a language is hard at first. I want to reduce this initial frustation and make the journey much more enjoyable. This repo contains the things that you will need in journey with Enarx.
@@ -102,6 +102,8 @@ Checkout for more :
 ---
 
 ###  How you can contribute and collborate ?
+
+![adventure](https://thumbs.dreamstime.com/b/vector-vintage-card-forest-night-sky-inspirational-phrase-let-adventure-begin-stylish-hipster-background-motivational-68783071.jpg)
   
 Best way to get better at something is by doing. Get together with the community, share your ideas and implement few projects. 
 
@@ -131,11 +133,14 @@ You can check out the links down below to check out demos we created as Outreach
 
 ###  Demos : 
 
-1. [Bulletproof](https://github.com/shravi24/Enarx-Bulletproof-Demo)
+1. [ML Diabetes](https://github.com/jnyfah/Enarx-Demo)
 
 2. [TCP MIO Server]()
 
-3. [ML Diabetes](https://github.com/nickvidal/diabetes)
+3. [Bulletproof](https://github.com/shravi24/Enarx-Bulletproof-Demo)
+
+
+
 
 
 I have added a few things here and if you think some other things that need to be here as well feel free to create an issue and reach out.
