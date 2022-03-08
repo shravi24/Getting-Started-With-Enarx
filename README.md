@@ -55,6 +55,8 @@ Don't fret if you can't understand some of the terms in these blogs or videos. D
 - [Protection for data in use](https://www.youtube.com/watch?v=JD70E7HHjlc)
 - [WebAssembly + Confidential Computing by Nick Vidal](https://fosdem.org/2022/schedule/event/tee_enarx/)
 - [Enarx Demo by Mike and Nathaneil](https://youtu.be/y_eDNTIkBBE?list=PLcApgpIcYo8kgPVO0rdvgQu3wJVTLe_LQ&t=774)
+- [From Zero to Hero: Making Confidential Computing Accessible by Nick Vidal](https://www.youtube.com/watch?v=9GEZ1pnGN0I)
+- [Understanding trust relationships for Confidential Computing by Mike Bursell ](https://www.youtube.com/watch?v=pLIAFCLNre4)
 
 ---
 
