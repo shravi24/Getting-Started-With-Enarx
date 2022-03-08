@@ -53,6 +53,7 @@ Don't fret if you can't understand some of the terms in these blogs or videos. D
 - [Enarx Overview](https://www.youtube.com/watch?v=kheJFhljEck)
 - [Enarx Attestation](https://youtu.be/0MPCT2ocFIo?t=2058)
 - [Protection for data in use](https://www.youtube.com/watch?v=JD70E7HHjlc)
+- [WebAssembly + Confidential Computing by Nick Vidal](https://fosdem.org/2022/schedule/event/tee_enarx/)
 - [Enarx Demo by Mike and Nathaneil](https://youtu.be/y_eDNTIkBBE?list=PLcApgpIcYo8kgPVO0rdvgQu3wJVTLe_LQ&t=774)
 
 ---
