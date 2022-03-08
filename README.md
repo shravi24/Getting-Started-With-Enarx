@@ -27,9 +27,9 @@ To get started in learning a new technology or a language is hard at first. I wa
 ---
 
 ### Introduction to Enarx
-Enarx is an open source project which makes possible to deploy sensitive workloads on not fully trusted hosts in public cloud, private cloud , Edge, IoT  etc.
+Enarx is an open source project which makes possible to deploy sensitive workloads on not fully trusted hosts in public cloud, private cloud , Edge, IoT  etc. It is a project that aims to reduce the number trust realtionships while maintaining a high level of security. 
 
----
+
 
 ### How it Works?
 
@@ -111,7 +111,9 @@ So how you can contribute and collborate ?
 
 At first, you should get familiar with the community and ask questions if have any. Enarx has a great community and you will surely be at ease after the inital jitters. 
 
-For joining the Chat check out the [Community chat](https://chat.enarx.dev/).
+For joining the Chat check out the [Community chat](https://chat.enarx.dev/). 
+
+If you have any questions, feel free to contact [Nick Vidal](https://twitter.com/nickvidal) and all the community members. They are some of the most amazing people I have ever met.
 
 To get started in contribution, check out the below links.
   
