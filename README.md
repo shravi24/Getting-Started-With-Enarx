@@ -11,17 +11,15 @@ To get started in learning a new technology or a language is hard at first. I wa
 ---
 
 ## Contents
-- [ Introduction to Enarx ]( #IntroductiontoEnarx )
-- [How it Works?](#HowitWorks?)
-- [Blog References](#BlogReferences)
-- [Youtube References](#YoutubeReferences)
-- [Why to use Enarx ?](#WhytouseEnarx?)
-- [What is WebAssembly ?](#WhatisWebAssembly?)
-- [What is TEE ?](#WhatisTEE?)
-- [How you can contribute and collborate ?](#Howyoucancontributeandcollborate?)
-- [ Enarx Installation ]( #EnarxInstallation)
-- [ What is TEE  ]( #WhatisTEE? )
-- [ Demos ]( #Demos )
+- [ Introduction to Enarx ]( https://github.com/shravi24/Getting-Started-With-Enarx/#introduction-to-enarx )
+- [How it Works?](https://github.com/shravi24/Getting-Started-With-Enarx/#how-it-works)
+- [Blog References](https://github.com/shravi24/Getting-Started-With-Enarx/#blog-references)
+- [Youtube References](https://github.com/shravi24/Getting-Started-With-Enarx/#youtube-references)
+- [Why to use Enarx ?](https://github.com/shravi24/Getting-Started-With-Enarx/#why-to-use-enarx)
+- [What is WebAssembly ?](https://github.com/shravi24/Getting-Started-With-Enarx/#what-is-webassembly-)
+- [What is TEE ?](https://github.com/shravi24/Getting-Started-With-Enarx/#what-is-tee-)
+- [How you can contribute and collborate ?](https://github.com/shravi24/Getting-Started-With-Enarx/#how-you-can-contribute-and-collborate-)
+- [ Demos ](https://github.com/shravi24/Getting-Started-With-Enarx/#demos-)
 
 
 ---
