@@ -1,4 +1,4 @@
-![Enarx](https://images.pexels.com/photos/1055068/pexels-photo-1055068.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Enarx](https://thumbs.dreamstime.com/b/enchanting-old-fairytale-castle-top-hill-idyllic-landscape-d-render-177332674.jpg)
 
 # Getting started with Enarx 
 To get started in learning a new technology or a language is hard at first. I want to reduce this initial frustation and make the journey much more enjoyable. This repo contains the things that you will need in journey with Enarx.
