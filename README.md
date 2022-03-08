@@ -86,10 +86,10 @@ Let's now understand a few key terms that you would need throughout your contrib
 WebAssembly is a sort of binary-code that can be run in modern web browsers. It allows us to write code in different languages and run it on the web.
 
 Here is a checklist to help you better understand WebAssembly :
-[What is WebAssembly and How it works](https://github.com/enarx/outreachy/tree/main/shravi24/Introduction%20to%20WebAssembly)
-[WebAssembly Guide](https://enarx.dev/docs/WebAssembly/Introduction)
-[Different WebAssembly Runtimes](https://github.com/appcypher/awesome-wasm-runtimes)
-Check out the [Demos](https://github.com/enarx/outreachy) implemented by Outreachy Contributors.
+- [What is WebAssembly and How it works](https://github.com/enarx/outreachy/tree/main/shravi24/Introduction%20to%20WebAssembly)
+- [WebAssembly Guide](https://enarx.dev/docs/WebAssembly/Introduction)
+- [Different WebAssembly Runtimes](https://github.com/appcypher/awesome-wasm-runtimes)
+- Check out the [Demos](https://github.com/enarx/outreachy) implemented by Outreachy Contributors.
 
 ---
 
