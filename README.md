@@ -25,7 +25,7 @@ To get started in learning a new technology or a language is hard at first. I wa
 ---
 
 ### Introduction to Enarx
-Enarx is an open source project which makes possible to deploy sensitive workloads on not fully trusted hosts in public cloud, private cloud , Edge, IoT  etc. It is a project that aims to reduce the number trust realtionships while maintaining a high level of security. 
+Enarx is an open source project which makes possible to deploy sensitive workloads on not fully trusted hosts in public cloud, private cloud , Edge, IoT  etc. It is a project that aims to reduce the number of trust realtionships while maintaining a high level of security. 
 
 
 
